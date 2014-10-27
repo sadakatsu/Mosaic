@@ -1,5 +1,5 @@
-SpeedClueContest
-================
+Mosaic
+======
 ![Mosaic screenshot](screenshot.png)
 
 Mosaic is a Java 8 application that enables users to generate mosaics of image
